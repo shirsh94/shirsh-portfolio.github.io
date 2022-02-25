@@ -14723,6 +14723,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 url_launcher
+url_launcher_android
+url_launcher_ios
 url_launcher_platform_interface
 
 Copyright 2013 The Flutter Authors. All rights reserved.
